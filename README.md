@@ -1,6 +1,11 @@
 # ctf-study
 Place for my ctf studies
 
+## tools
+A CTF toolkit written in python
+https://github.com/Gallopsled/pwntools
+
+## other folks writeups and events
 Defcon old ctf writeups
 https://www.defcon.org/html/links/dc-ctf.html
 
